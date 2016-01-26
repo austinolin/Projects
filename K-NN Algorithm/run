@@ -1,0 +1,2 @@
+#!/bin/bash
+java KNN $1 $2 $3

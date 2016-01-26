@@ -1,0 +1,2 @@
+#!/bin/bash
+java Preprocess $1 $2
